@@ -1,4 +1,4 @@
-# GraphQL_Programming_Assignment
+# GraphQL Programming Assignment
 A web application written using the Django framework that allows a user to query the Countries GraphQL API (https://github.com/trevorblades/countries), written during the recruitment process of a software engineering role.
 
 To deploy the application locally on a Django development server, accessible by default at localhost:8000, the following steps need to be taken on a machine with a valid Python 3 installation:
