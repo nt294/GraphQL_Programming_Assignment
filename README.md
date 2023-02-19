@@ -5,7 +5,7 @@ To deploy the application locally on a Django development server, accessible by 
 1. Clone the repository from https://github.com/nt294/GraphQL_Programming_Assignment
 2. Navigate to the directory containing the ‘manage.py’ file and run the following commands:
 
-(Recommended to create and activate a python virtual environment first)
+(Recommended to create and activate a Python virtual environment first)
 * $ pip install -r requirements.txt
 * $ python manage.py makemigrations
 * $ python manage.py migrate
